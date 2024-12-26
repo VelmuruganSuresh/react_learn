@@ -15,7 +15,7 @@ export default function Bike(){
             <tr><td>
               <img src="https://images.pexels.com/photos/2607554/pexels-photo-2607554.jpeg?" alt="photo" width="150px" height="150px" onClick={showBike}/>  
               </td></tr>
-              <tr><td>Fruits</td></tr>
+              <tr><td>clickHere</td></tr>
           </table>):
           (<BikeCart/>)
       }
